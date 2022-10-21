@@ -14,7 +14,7 @@ Like My Work?
 
 Then consider subscribing to my [personal blog](https://toul.io/) to stay up to date with whatever I'm hacking away on.
 
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+[![](https://gitwar.herokuapp.com/badge?username=toul-codesi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
@@ -27,7 +27,7 @@ Then consider subscribing to my [personal blog](https://toul.io/) to stay up to 
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I enjoy building things with GoLang and deploying them to AWS Cloud.
+- 💻 &nbsp; I enjoy building things with GoLang and deploying them AWS ☁️ 
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
