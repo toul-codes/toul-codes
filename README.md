@@ -9,12 +9,14 @@
 I'm a Cyber Security Analyst with my AWS Security Specialist Cert and am currently studying for the CISSP. In my past I've been a DevSecOps engineer and Data Anayltics Engineer. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor Go/GoLang newbies 👨🏻‍💻. I'm currently into building as many things with GoLang that I can.
 
 
+Like GO and are a beginner?
+
+Check out [Automate the Boring Stuff with GO](https://automatetheboringstuffwithgo.com) the completely FREE beginner's guide to programming with GO without any prior experience needed.
 
 Like My Work?
 
 Then consider subscribing to my [personal blog](https://toul.io/) to stay up to date with whatever I'm hacking away on.
 
-[![](https://gitwar.herokuapp.com/badge?username=toul-codesi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
