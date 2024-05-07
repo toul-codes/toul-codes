@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=toul-codes&style=flat-square&color=0088cc)
 
-I'm a Cyber Security Analyst with my CISSP and AWS Security Specialist Cert. In my past I've been a DevSecOps engineer and Data Anayltics Engineer. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor Go/GoLang newbies 👨🏻‍💻. I'm currently into building as many things with GoLang that I can.
+I'm an Application Security Lead with my  CISSP and AWS Security Specialist Cert. In the past I've been a DevSecOps engineer and Data Analytics Engineer. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor Go/GoLang newbies 👨🏻‍💻. I'm currently into building as many things with GoLang as I can.
 
 
 Like GO and are a beginner?
